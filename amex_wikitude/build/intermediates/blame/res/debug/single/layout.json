@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/list_startscreen.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/list_startscreen.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/list_sample.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/list_sample.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/sample_1.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/sample_1.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/urllauncher_main.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/urllauncher_main.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/sample_poidetail.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/sample_poidetail.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/sample_cam.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/sample_cam.xml"
+    },
+    {
+        "merged": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/res/merged/debug/layout/sample_cam_fragment_main.xml",
+        "source": "/Users/siva/Desktop/AR/GETREADY/amex_wikitude/src/main/res/layout/sample_cam_fragment_main.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed May 24 22:47:46 MST 2017
+base.0=/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14b4fb7a7b9a36fcdea5b695e59384fee4ccc7ba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dae16ae5967a3df75a3679b99088b7a111cd3d5b/classes.dex
+base.1=/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dae16ae5967a3df75a3679b99088b7a111cd3d5b
+file.0=/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14b4fb7a7b9a36fcdea5b695e59384fee4ccc7ba/classes.dex

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8cf588f7e8f1780abdbbfbd5c65f41b884355b86">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dae16ae5967a3df75a3679b99088b7a111cd3d5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_006282b02a9ef9b7008c7ca0095da956fcda0f04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/exploded-aar/wikitudesdk/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a19d7479d1bf3122134a0b6bcfec833a97433642">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/intermediates-exploded-aar-wikitudesdk_76e9edaa504d8cec041e8de9027bc3a0198beb9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_5f80aab239ef985d8ea36a5b9d3cf5abfdc8a70c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d3f4e383daa3176f9e5779d51a625b0e83a4f6e">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14b4fb7a7b9a36fcdea5b695e59384fee4ccc7ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/siva/Desktop/AR/GETREADY/amex_wikitude/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_61720a54f8811861b232705a764fb1495ca07d72/classes.dex" />
+    </item>
+
+</items>
